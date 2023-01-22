@@ -1,7 +1,7 @@
 # Online Shopping Mobile Application Flutter Dart
-# *RecycleShop_App :credit_card: :computer:		*
+*RecycleShop_App :credit_card: :computer:		*
 
-### Uygulama Açıklaması
+# Uygulama Açıklaması
 ------
 
 ![alt text](https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/09/wordpress-ile-eticaret-yapma-dikkat-edilmesi-gereken-8-onemli-nokta.png)
