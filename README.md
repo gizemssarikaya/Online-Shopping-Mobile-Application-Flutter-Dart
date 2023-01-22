@@ -11,7 +11,7 @@ Satın alınması istenilen ürün için ilanların görüntülenmesi ve bu ilan
 Kullanıcı tarafından verdiği ilanı silebilme ve satın almak istediği ilan için ilan sahibine mesaj gönderebilmektedir ve satıcının bilgilerine gittikten sonra üstüne tıklandığında satıcıya puan verebilmektedir.
 İlanlarım bölümünde kullanıcının kendi yüklediği ilanları görebilmekte ve bu ilanları silebilme özelliği bulunmaktadır
 
-![Screenshot_1674346919](https://user-images.githubusercontent.com/86318503/213913097-095ec580-df99-4600-8696-9062e1d92e9b.png)
+![alt text](https://user-images.githubusercontent.com/86318503/213913097-095ec580-df99-4600-8696-9062e1d92e9b.png)
 
 
 
