@@ -12,6 +12,7 @@ Kullanıcı tarafından verdiği ilanı silebilme ve satın almak istediği ilan
 İlanlarım bölümünde kullanıcının kendi yüklediği ilanları görebilmekte ve bu ilanları silebilme özelliği bulunmaktadır
 
 ![alt text](https://user-images.githubusercontent.com/86318503/213913097-095ec580-df99-4600-8696-9062e1d92e9b.png)
+https://user-images.githubusercontent.com/86318503/213913032-9b512776-5e25-4bf2-bce8-921e9b749811.png
 
 
 
